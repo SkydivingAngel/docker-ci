@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Uqv0GYeC5R/HfWVLpTT5TRIS+EPO0UeKU9NkpTAyAUw=",
+  "Hash": "SKigNPKwALnmMxNQZkCYx7fA3tZJlmVlddSrzIa8e5A=",
   "Source": "myWebApp",
   "BasePath": "_content/myWebApp",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\aalbertazzi\\Desktop\\Nuova cartella\\docker-ci\\src\\obj\\Debug\\net7.0\\scopedcss\\bundle\\myWebApp.styles.css",
+      "Identity": "C:\\Users\\aalbertazzi\\Desktop\\Nuova cartella\\docker-ci\\src\\obj\\Debug\\net6.0\\scopedcss\\bundle\\myWebApp.styles.css",
       "SourceId": "myWebApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\aalbertazzi\\Desktop\\Nuova cartella\\docker-ci\\src\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\aalbertazzi\\Desktop\\Nuova cartella\\docker-ci\\src\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/myWebApp",
       "RelativePath": "myWebApp.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\aalbertazzi\\Desktop\\Nuova cartella\\docker-ci\\src\\obj\\Debug\\net7.0\\scopedcss\\bundle\\myWebApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\aalbertazzi\\Desktop\\Nuova cartella\\docker-ci\\src\\obj\\Debug\\net6.0\\scopedcss\\bundle\\myWebApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\aalbertazzi\\Desktop\\Nuova cartella\\docker-ci\\src\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\myWebApp.bundle.scp.css",
+      "Identity": "C:\\Users\\aalbertazzi\\Desktop\\Nuova cartella\\docker-ci\\src\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\myWebApp.bundle.scp.css",
       "SourceId": "myWebApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\aalbertazzi\\Desktop\\Nuova cartella\\docker-ci\\src\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\aalbertazzi\\Desktop\\Nuova cartella\\docker-ci\\src\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/myWebApp",
       "RelativePath": "myWebApp.bundle.scp.css",
       "AssetKind": "All",
@@ -48,7 +48,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\aalbertazzi\\Desktop\\Nuova cartella\\docker-ci\\src\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\myWebApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\aalbertazzi\\Desktop\\Nuova cartella\\docker-ci\\src\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\myWebApp.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\aalbertazzi\\Desktop\\Nuova cartella\\docker-ci\\src\\wwwroot\\css\\site.css",
