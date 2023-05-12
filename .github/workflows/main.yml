@@ -43,5 +43,6 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         with:
           projectBaseDir: ./src
+          sonarProjectKey: SkydivingAngel_docker-ci
           sonarOrganization: skydivingangel
           
