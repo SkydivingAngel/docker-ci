@@ -45,7 +45,7 @@ jobs:
           sonarOrganization: skydivingangel
         with:
           projectBaseDir: ./src
-          args: >
-        -Dsonar.projectKey=SkydivingAngel_docker-ci
-        -Dsonar.sonarOrganization=skydivingangel
+          args:
+            -Dsonar.projectKey=SkydivingAngel_docker-ci
+            -Dsonar.sonarOrganization=skydivingangel
           
