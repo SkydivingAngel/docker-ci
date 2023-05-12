@@ -41,8 +41,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-          sonarProjectKey: SkydivingAngel_docker-ci
+          sonarProjectKey: 
           sonarOrganization: skydivingangel
         with:
           projectBaseDir: ./src
+          args: >
+        -Dsonar.projectKey=SkydivingAngel_docker-ci
+        -Dsonar.sonarOrganization=skydivingangel
           
