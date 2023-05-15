@@ -20,6 +20,5 @@ app.MapRazorPages();
 
 
 /* sonarcloud test */
-return;
 
 app.Run();
